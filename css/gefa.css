@@ -1,6 +1,8 @@
-body {
-  background-color: lightgreen;
-}
+/*
+    // ===================================== //
+    //        CSS for gefa.html page         //
+    // ===================================== //
+*/
 
 
 /* NAVIGATION */
@@ -46,3 +48,16 @@ body { margin: 0; }
   background-color: white;
 }
 /* END OF NAVIGATION */
+
+.gefa-section {
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    
+    background-color: indianred;
+    color: whitesmoke;
+}
