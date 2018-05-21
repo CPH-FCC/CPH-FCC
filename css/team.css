@@ -17,7 +17,6 @@ body { margin: 0; }
 }
 
 .main-navbar__logo-wrapper {
-  padding-left: 20px;
   background-color: green;
   display: flex;
   justify-content: center;
